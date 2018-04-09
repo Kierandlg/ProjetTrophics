@@ -1,0 +1,22 @@
+9
+0 0 3 367 mygale.jpg
+1 0 300 100 fourmi.jpg
+2 0 200 300 phasme.jpg
+3 0 5 37 papillon.jpg
+4 0 600 300 tatou.jpg
+5 0 150 450 mante_religieuse.jpg
+6 0 475 100 tamanoir.jpg
+7 0 500 450 vegetal.jpg
+8 0 700 100 jaguar.jpg
+11
+0 5 0
+1 2 5
+2 3 5
+3 5 1
+4 7 1
+5 7 3
+6 7 4
+7 3 1
+8 3 4
+9 1 6
+10 4 8

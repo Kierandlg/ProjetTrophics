@@ -1,0 +1,30 @@
+9
+0 0 700 100 requin.jpg
+1 0 732 452 espadon.jpg
+2 0 469 100 poisson.jpg
+3 0 343 264 crevette.jpg
+4 0 65 155 phytoplancton.jpg
+5 0 28 392 zooplancton_herbi.jpg
+6 0 103 575 zooplancton_carni.jpg
+7 0 484 517 matiere_orga.jpg
+8 0 232 39 pelican.jpg
+18
+0 1 0
+1 2 1
+2 3 2
+3 4 3
+4 4 5
+5 5 6
+6 0 7
+7 1 7
+8 2 7
+9 3 7
+10 4 7
+11 5 7
+12 6 7
+13 7 4
+14 2 8
+15 3 8
+16 8 7
+17 8 0
+
